@@ -2,7 +2,7 @@
 - 👀 I’m interested in music and other things.
 - 🌱 I’m currently trying to learn to use Git
 - 💞️ I’m looking to collaborate on blockchain in the future
-- 📫 
+- 📫 adding additional text to file
 
 <!---
 jcskfatest/jcskfatest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
